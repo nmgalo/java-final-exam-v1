@@ -1,0 +1,4 @@
+2021-01-27 19:02:21 INFO  Payment:22 - კომუნალური გადახდილია: Water{customerNumber='WT-128712', amount=2.2}
+2021-01-27 19:02:21 INFO  Payment:22 - კომუნალური გადახდილია: Electricity{customerNumber='IT-1289', amount=9.5}
+2021-01-27 19:02:55 INFO  Payment:20 - კომუნალური გადახდილია: Water{customerNumber='WT-128712', amount=2.2}
+2021-01-27 19:02:55 INFO  Payment:20 - კომუნალური გადახდილია: Electricity{customerNumber='IT-1289', amount=9.5}
